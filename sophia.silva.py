@@ -44,3 +44,11 @@
 #     x+b/a
 #     print(f'raiz ={x}')
 
+# Código 4 (horário atual)
+# hora_atual = int(input("Digite a hora atual (0 a 23): "))
+
+# if 9 <= hora_atual < 18:
+    # print("A loja está aberta.")
+# else:
+    # print("A loja está fechada.")
+
